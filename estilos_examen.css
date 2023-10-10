@@ -1,0 +1,33 @@
+body{
+    font-size: 18px;
+    background-color: #cecdcd;
+}
+
+header{
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+    color: white
+}
+nav{
+    list-style-type: none;
+}
+ul{
+    list-style-type: none;
+    padding: 5px;
+}
+li{
+    display: inline;
+    margin-right: 20px;
+}
+a{
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+section{
+    margin-bottom: 20px;
+}
+.FOTOS{
+    border: solid green;
+}
